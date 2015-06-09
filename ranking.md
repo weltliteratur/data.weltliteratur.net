@@ -6,13 +6,13 @@ css: ".wrapper {width: 95%}"
 
 # overview
 
-- [page length](page-length)
-- [number of in-links](number-of-in-links)
-- [PageRank writers](pagerank-writers)
-- [PageRank complete](pagerank-complete)
-- [page views 2014](page-views-2014)
-- [page views 2013](page-views-2013)
-- [page views 2012](page-views-2012)
+- [page length](#page-length)
+- [number of in-links](#number-of-in-links)
+- [PageRank writers](#pagerank-writers)
+- [PageRank complete](#pagerank-complete)
+- [page views 2014](#page-views-2014)
+- [page views 2013](#page-views-2013)
+- [page views 2012](#page-views-2012)
 
 ## page length
 
