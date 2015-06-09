@@ -1,7 +1,7 @@
 ---
 title: Rankings
 layout: default
-css: ".wrapper {width: 90%}"
+css: ".wrapper {width: 95%}"
 ---
 
 ## page length
