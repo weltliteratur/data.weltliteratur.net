@@ -1,7 +1,7 @@
 ---
 title: Rankings
 layout: default
-css: ".wrapper {width: 95%;} table {white-space: nowrap; max-width: none; width: auto;} .table-overflow {overflow: auto;}"
+css: ".wrapper {width: 95%;} table {white-space: nowrap; max-width: none; width: auto;} .table-overflow {overflow: auto;margin-bottom: 2em;}"
 ---
 
 # overview
