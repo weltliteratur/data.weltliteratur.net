@@ -16,4 +16,4 @@ on January 31st, 1827.
 ### Datasets
 
 - [the top 25 writers](ranking.html) for the top 15 Wikipedia
-  languages according to five different ranking approaches
+  languages according to seven different rankings
