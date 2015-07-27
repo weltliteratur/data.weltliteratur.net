@@ -19,7 +19,7 @@ the following rankings:
 - [page views 2013](#page-views-2013)
 - [page views 2014](#page-views-2014)
 
-The writers are ranked by the sum of the inverted ranks which is
+The writers are ranked by the sum of the reciprocal ranks which is
 displayed after the name of each writer. Not all languages contain 25
 native writers, since for these language less than 25 writers appeared
 among 25 writers of the other 14 languages (for the corresponding
