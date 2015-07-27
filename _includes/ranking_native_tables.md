@@ -1,4 +1,3 @@
->>> Safvet_beg_Bašagić, sh
 
 ## page length
 
