@@ -15,5 +15,7 @@ on January 31st, 1827.
 
 ### Datasets
 
-- [the top 25 writers](ranking.html) for the top 15 Wikipedia
-  languages according to seven different rankings
+- [the top 25 writers](ranking.html) for the top 15 Wikipedia language
+  editions according to seven different rankings
+- [writers of one language](ranking_native.html) that appear
+  frequently among the top 25 writers of other language editions
