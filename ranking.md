@@ -14,6 +14,7 @@ css: ".wrapper {width: 95%;} table {white-space: nowrap; max-width: none; width:
 - [page views 2013](#page-views-2013)
 - [page views 2012](#page-views-2012)
 
+{% include ranking_tables.md %}
 
 ## page length
 
