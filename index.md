@@ -1,6 +1,7 @@
 ---
 title: The World Literature According to Wikipedia
 layout: default
+date: 2015-11-03
 ---
 
 
