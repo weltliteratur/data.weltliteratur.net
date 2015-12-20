@@ -20,3 +20,5 @@ on January 31st, 1827.
   editions according to seven different rankings
 - [writers of one language](ranking_native.html) that appear
   frequently among the top 25 writers of other language editions
+- [additional data](https://github.com/weltliteratur/worldliterature-wikipedia/tree/master/data)
+  (i.e., lists of writers that were identified by different approaches, a list of manually classified writers per language, a list of Nobel laureates in literature)
