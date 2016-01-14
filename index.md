@@ -21,12 +21,12 @@ on January 31st, 1827.
 - [writers of one language](ranking_native.html) that appear
   frequently among the top 25 writers of other language editions
 
-<!--
+{% comment %} and 
 
 - [additional raw datasets](https://github.com/weltliteratur/worldliterature-wikipedia/tree/master/data)
   (i.e., lists of writers that were identified by different approaches, a list of manually classified writers per language, a list of Nobel laureates in literature)
 
--->
+{% endcomment %}
 
 The data is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
