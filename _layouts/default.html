@@ -27,19 +27,24 @@
     <div class="wrapper">
       <header class="without-description">
         <h1><a href="/">Weltliteratur</a></h1>
-        <p>World Literature According to Wikipedia</p>
-        <!-- p class="view"><a href="https://github.com/weltliteratur">View the Project on GitHub <small>weltliteratur</small></a></p>
+      <p>World Literature According to Wikipedia</p>
+
+      {% comment %}
+      <p class="view"><a href="https://github.com/weltliteratur">View the Project on GitHub <small>weltliteratur</small></a></p>
         <ul>
           <li class="single"><a href="https://github.com/weltliteratur/weltliteratur.github.io">View On <strong>GitHub</strong></a></li>
-        </ul -->
-      </header>
+        </ul>
+      {% endcomment %}
+	</header>
       <section>
           {{content}}
       </section>
     </div>
     <footer>
       last updated: {{ page.date | date: "%-d %B %Y" }}
-      <!-- p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p -->
+      {% comment %}
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+      {% endcomment %}
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
