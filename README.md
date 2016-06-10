@@ -1,2 +1,2 @@
-weltliteratur.github.io
-=======================
+data.weltliteratur.net
+======================
