@@ -20,9 +20,9 @@ Top 25 writers on 15 different language versions of Wikipedia, ranked by the fol
 Names in **bold** indicate *native* writers, i.e., writers that have
 (mainly) written in the corresponding language. Operationalization
 led to some contingent decisions, or, to quote our paper,
-"declaring Cicero an ‘Italian’ writer was probably the most
-daring intervention when operationalizing our data" (so yes, we're
-aware ;-). The *mean* row shows
+"declaring *Virgil* and *Cicero* ‘Italian’ writers was probably the
+most daring intervention when operationalizing our data"
+(so yes, we're aware ;-). The *mean* row shows
 the mean number of native writers (over all 15 languages) per
 rank. The *count* column shows the number (and percentage) of native
 writers among the top 25 for each language.
