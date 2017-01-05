@@ -26,8 +26,9 @@ native writers, since for these language less than 25 writers appeared
 among 25 writers of the other 14 languages (for the corresponding
 ranking measure).
 
-To stress it once more, operationalization
-led to some contingent decisions, or, to quote our paper,
+To stress it once more, operationalization led to some contingent
+decisions, or, to quote our paper
+(**[preprint here](https://arxiv.org/abs/1701.00991)**),
 "declaring *Virgil* and *Cicero* ‘Italian’ writers was probably the
 most daring intervention when operationalizing our data"
 (so yes, we're aware ;-).
