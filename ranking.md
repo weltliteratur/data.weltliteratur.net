@@ -19,7 +19,8 @@ Top 25 writers on 15 different language versions of Wikipedia, ranked by the fol
 
 Names in **bold** indicate *native* writers, i.e., writers that have
 (mainly) written in the corresponding language. Operationalization
-led to some contingent decisions, or, to quote our paper,
+led to some contingent decisions, or, to quote our paper
+(**[preprint here](https://arxiv.org/abs/1701.00991)**),
 "declaring *Virgil* and *Cicero* ‘Italian’ writers was probably the
 most daring intervention when operationalizing our data"
 (so yes, we're aware ;-). The *mean* row shows
