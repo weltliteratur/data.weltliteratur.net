@@ -16,9 +16,9 @@ on January 31st, 1827.
 
 ### Datasets
 
-- [the top 25 writers](ranking.html) for the top 15 Wikipedia language
-  editions according to seven different rankings
-- [writers of one language](ranking_native.html) that appear
+- [top 25 writers](ranking.html) for the top 15 Wikipedia language
+  editions according to seven different ranking methods
+- [foreign-language writers](ranking_native.html) that appear
   frequently among the top 25 writers of other language editions
 - [additional raw datasets](https://github.com/weltliteratur/worldliterature-wikipedia/tree/master/data)
   (i.e., lists of writers that were identified by different approaches, a list of manually classified writers per language, a list of Nobel laureates in literature)
