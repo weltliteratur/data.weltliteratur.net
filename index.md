@@ -1,9 +1,8 @@
 ---
 title: The World Literature According to Wikipedia
 layout: default
-date: 2016-01-14
+date: 2017-01-05
 ---
-
 
 *Nationalliteratur will jetzt nicht viel sagen, die Epoche der
 **Weltliteratur** ist an der Zeit, und jeder muß jetzt dazu wirken,
@@ -11,8 +10,6 @@ diese Epoche zu beschleunigen.* --  [Johann Wolfgang von Goethe](https://en.wiki
 in a [conversation](http://gutenberg.spiegel.de/buch/-1912/80) with
 [Johann Peter Eckermann](https://en.wikipedia.org/wiki/Johann_Peter_Eckermann)
 on January 31st, 1827.
-
-
 
 ### Datasets
 
@@ -23,6 +20,11 @@ on January 31st, 1827.
 - [additional raw datasets](https://github.com/weltliteratur/worldliterature-wikipedia/tree/master/data)
   (i.e., lists of writers that were identified by different approaches, a list of manually classified writers per language, a list of Nobel laureates in literature)
 
-
 The data is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+### Publication
+
+
+The [preprint](https://arxiv.org/abs/1701.00991) is already available
+and the final publication will follow soon.
