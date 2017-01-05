@@ -7,10 +7,10 @@ date: 2015-11-06
 
 # overview
 
-The top 25 *native* writers of each language (i.e., writers that have
-mainly written in that language) that appear most often among the
-[top 25 writers](ranking.html) of the other 14 languages in each of
-the following rankings:
+Top 25 *native* writers of each language (i.e., writers that have
+mainly written in that language) that appear most frequently among
+the [top 25 writers](ranking.html) of the other 14 languages
+according to the following rankings:
 
 - [page length](#page-length)
 - [number of in-links](#number-of-in-links)
@@ -25,5 +25,11 @@ displayed after the name of each writer. Not all languages contain 25
 native writers, since for these language less than 25 writers appeared
 among 25 writers of the other 14 languages (for the corresponding
 ranking measure).
+
+To stress it once more, operationalization
+led to some contingent decisions, or, to quote our paper,
+"declaring *Virgil* and *Cicero* ‘Italian’ writers was probably the
+most daring intervention when operationalizing our data"
+(so yes, we're aware ;-).
 
 {% include ranking_native_tables.md %}
