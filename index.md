@@ -1,7 +1,7 @@
 ---
 title: The World Literature According to Wikipedia
 layout: default
-date: 2016-01-14
+date: 2017-01-05
 ---
 
 
@@ -30,3 +30,8 @@ on January 31st, 1827.
 
 The data is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+### Publication
+
+A [preprint](https://arxiv.org/abs/1701.00991) is available, the final
+version will be published soon.
